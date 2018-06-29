@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-crud-repository
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: maju
+Implementation-Vendor-Id: dsweb
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-c
+ rud-repository/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
